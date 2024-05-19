@@ -64,7 +64,7 @@ const Stats = () => {
                         whileHover={{scale: 1.05}}
                         transition={{duration: 0.3}}
                     >
-                        <h3 className="text-xl font-semibold text-gray-800 dark:text-white">Followers</h3>
+                        <h3 className="text-xl font-semibold text-gray-800 dark:text-white">GitHub Followers</h3>
                         <p className="mt-2 text-3xl font-bold ">
                             <NumberTicker value={stats.followerCount}/>
                         </p>
