@@ -1,0 +1,13 @@
+*
+!prisma
+!public
+!src/**
+!package.json
+!package-lock.json
+!next-env.d.ts
+!next.config.mjs
+!postcss.config.mjs
+!tailwind.config.ts
+!tsconfig.json
+!.env.development
+!.env.production
