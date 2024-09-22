@@ -73,4 +73,13 @@ export const projectList = [
 		tags: ["Next.js", "Typescript", "TailwindCSS"],
 		href: "https://d-aaron.dev",
 	},
+	{
+		name: "sweetbite.at",
+		description:
+			"Sweetbite is a local bakery which offers cookies and brownies. I was involved in finishing the page.",
+		dateRange: "Sep 2024",
+		previewImage: "/images/sweetbite-starter.png", // Replace with actual image URL
+		tags: ["Next.js", "Typescript", "TailwindCSS", "Prisma"],
+		href: "https://sweetbite.at",
+	},
 ];
